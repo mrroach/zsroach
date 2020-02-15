@@ -1,7 +1,6 @@
 """A very small test."""
 
 
-
 def main():
     print('this is a test')
     for i in range(10):
